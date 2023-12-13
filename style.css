@@ -1,0 +1,270 @@
+#body {
+
+  background-color: darkgrey;
+  color: #14166e;
+  font-size: 1.1em;
+
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  width: 100%;
+
+  overflow-x: hidden;
+
+  margin: 0;
+
+  line-height: 30px;
+
+}
+
+#h1 {
+
+  text-align: center;
+  color: #100695;
+
+}
+
+#h2 {
+
+  margin: 0;
+
+  margin-bottom: 15px;
+  text-align: center;
+  color: #100695;
+
+}
+
+#main {
+
+  margin: 40px;
+  margin-left: 40px;
+}
+
+#p {
+
+  text-align: "left";
+  font-size: medium;
+  color: #100695;
+}
+
+#content {
+
+  display: flex;
+  align-items: center;
+  background-position-x: left;
+  margin-left: 10px;
+  
+  
+}
+
+#projeto1 {
+
+  border: thick double #32a1ce;
+  
+  margin-bottom: 30px;
+
+  width: 50%;
+
+}
+
+.inputCalc,
+.somaCalc,
+.subCalc,
+.multCalc,
+.divCalc {
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+};
+
+.SomaCalc {
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+}
+
+.subCalc {
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+}
+
+.multCalc {
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+}
+
+.divCalc {
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+}
+
+#projeto2 {
+
+  border: thick double #32a1ce;
+
+  margin-bottom: 30px;
+
+  width: 50%;
+}
+
+
+
+#projeto1,
+#projeto2 {
+
+  padding: 10px 20px;
+  line-height: auto;
+  border: 5px outset blue;
+  text-align: left;
+  display: flex;
+  background-color: cadetblue;
+
+};
+
+;
+
+#form {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  width: 100%;
+
+}
+
+;
+
+#num1soma,
+#num2soma,
+#num1sub,
+#num2sub,
+#num1mult,
+#num2mult,
+#num1div,
+#num2div  {
+
+  width: 80 px;
+  height: 36px;
+  border: #14166e, 4px solid;
+  font-size: 12px
+}
+
+
+#resultado {
+
+  margin-top: 0;
+  position: left;
+  
+}
+
+;
+
+#notas {
+
+  display: flex;
+
+  width: 100%;
+
+  justify-content: space-around;
+  border: 4px, #32a1ce,
+
+}
+
+;
+
+#btnSituacao {
+  background-color: rgb(61, 66, 68);
+  width: 300px;
+  height: 300px;
+
+}
+
+
+#contentCalcMedias {
+
+  display:flex;
+  align-items: center;
+  margin-left: 10px;
+  
+  
+};
+
+
+#notas {
+  color: rgb(249, 8, 8);
+};
+
+#nota1 {
+  display: flex;
+}
+
+;
+
+#nota2 {
+  display: flex;
+};
+
+#nota3 {
+  display: flex;
+};
+
+#nota4 {
+  display: flex;
+};
+
+.buttonCalc {
+ display: flex
+}
+
+;
+
+#inputNota1 {
+
+
+  width: 80px;
+
+  height: 36px;
+}
+#inputNota2{
+  width: 80px;
+
+  height: 36px;
+}
+#inputNota3{
+width: 80px;
+
+  height: 36px;
+}
+#inputNota4{
+  width: 80px;
+
+  height: 36px;
+} 
+;
+
+#título {
+  padding-block: 50px;
+}
+
+;
+
+.placeholder {
+  position: left;
+}
+
+;
+
+.marcaregistrada {
+  position: center;
+  color:fuchsia;
+};
+
+
